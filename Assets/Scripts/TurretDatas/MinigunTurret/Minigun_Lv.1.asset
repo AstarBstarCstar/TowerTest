@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150c02ead14b10841add80705c5ac64b, type: 3}
+  m_Name: Minigun_Lv.1
+  m_EditorClassIdentifier: 
+  Kinds: 0
+  Icon: {fileID: 21300000, guid: 3631244dc04164d079a3302a39dbc0c6, type: 3}
+  Prefab: {fileID: 7017112666790716942, guid: 4fb1b6a74d8af234091049caca8278aa, type: 3}
+  Description: "\uBE60\uB974\uC9C0\uB9CC \uC57D\uD55C \uC5F0\uC0AC\uD0C0\uC6CC"
+  UpgradeDescription: 
+  Level: 1
+  Cost: 5
+  Sell: 3
+  Damage: 1
+  Range: 20
+  FireRate: 5

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150c02ead14b10841add80705c5ac64b, type: 3}
+  m_Name: Lightning_Lv.1
+  m_EditorClassIdentifier: 
+  Kinds: 2
+  Icon: {fileID: 21300000, guid: 8de2b0ca8a36944a9b9dd75dff42644f, type: 3}
+  Prefab: {fileID: 3638512117896818638, guid: 21aaf10c4c3c6c7439207aba82c8c17e, type: 3}
+  Description: "\uAC15\uD558\uACE0 \uB113\uC740 \uBC94\uC704\uB97C \uCEE4\uBC84\uD558\uB294
+    \uD0C0\uC6CC"
+  UpgradeDescription: 
+  Level: 1
+  Cost: 30
+  Sell: 20
+  Damage: 1000
+  Range: 30
+  FireRate: 20
